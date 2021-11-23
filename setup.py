@@ -8,7 +8,7 @@ with open("README", "r", encoding="utf-8") as fh:
 setup(
   name = 'TraccarDataPopulator',
   packages = ['TraccarDataPopulator'],
-  version = '0.1',
+  version = '0.2',
   license='MIT',
   description = 'This library used for populating data for traccar server in order to speedup development process or troubleshooting a traccar server',
   long_description=long_description,
