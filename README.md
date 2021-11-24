@@ -41,7 +41,11 @@ mail: aryya.widigdha@yahoo.com
 YT Traccar Tutorial: https://www.youtube.com/playlist?list=PLAog7t_ArobujtC6UMWjUiOWwsSrUKpi-       
 
 
-License   
-----   
+### Stats
+[![Downloads](https://static.pepy.tech/personalized-badge/traccardatapopulator?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/traccardatapopulator)
+
+
+License    
+----     
 
 MIT License
